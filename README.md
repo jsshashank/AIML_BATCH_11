@@ -6,6 +6,6 @@
 6. [Lab 06][https://github.com/jsshashank/AIML_BATCH_11/blob/main/Lab_6.ipynb]
 7. [Lab 07][https://github.com/jsshashank/AIML_BATCH_11/blob/main/Lab_7.ipynb]
 8. [Lab 08][https://github.com/jsshashank/AIML_BATCH_11/blob/main/Lab_08.ipynb]
-9. [Lab 08][https://github.com/jsshashank/AIML_BATCH_11/blob/main/Lab09.ipynb]
+9. [Lab 09][https://github.com/jsshashank/AIML_BATCH_11/blob/main/Lab09.ipynb]
 
 
